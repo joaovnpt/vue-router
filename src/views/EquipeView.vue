@@ -6,19 +6,23 @@ export default {
             equipe: [
                 {
                     nome: 'João Vitor Guiotti',
-                    cargo: 'Desenvolvedor'
+                    cargo: 'Gerente de projetos'
                 },
                 {
                     nome: 'Gabriel Campregher Mohr',
-                    cargo: 'Designer'
+                    cargo: 'Analista de sistemas'
                 },
                 {
                     nome: 'Luiz Miguel Lima de Souza',
-                    cargo: 'Gerente de Projetos'
+                    cargo: 'Desenvolvedor'
                 },
                 {
                     nome: 'Brayan Pedroso de Mattos',
-                    cargo: 'desenvolvedor'
+                    cargo: 'Desenvolvedor'
+                },
+                {
+                    nome: 'Matheus Henrique Calsavara',
+                    cargo: 'Designer'
                 }
             ]
         }
